@@ -1,34 +1,32 @@
-* {
-    padding: 1%;
-    border-radius: 30px 60px;
-    margin: 0%;
-}
+
 body {
-    background-color: #DDDDDD;
-    justify-items: center;
-    align-items: center;
-    text-align: center;
+    background-color: seashell;
     font-family: 'Times New Roman', Times, serif;
-    padding: 1%;
+    padding: 10px auto 0px auto;
 }
 
-header {
+div#interface {
+    width: 900px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.4);
+    border-radius: 10px;
+}
+
+header h1 {
     color: pink;
 }
 
-aside {
+nav {
+    border-radius: 10px;
     background-color: seashell;
-}
-
-article {
-    background-color: seashell;
+    padding: 5px;
+    margin: 10px auto 10px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.3);
 }
 
 button {
     background-color: pink;
     box-shadow: none;
-}
-
-footer {
-    background-color: seashell;
 }
