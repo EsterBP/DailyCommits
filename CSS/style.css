@@ -19,39 +19,6 @@ header#cabecalho h1 {
     text-align: center;
 }
 
-nav#menu {
-    border-radius: 10px;
-    background-color: seashell;
-    padding: 5px;
-    margin: 10px auto 10px auto;
-    box-shadow: 0px 0px 10px rgba(0,0,0,.3);
-}
-
-nav#menu h2 {
-    text-align: center;
-}
-
-nav#menu ul {
-    list-style: none;
-}
-
-main#main1 {
-    display: block;
-    float:left;
-    width: 400;
-}
-
-main#main1 button {
-    background-color: pink;
-    box-shadow: none;
-}
-
-aside#aside1 {
-    display: block;
-    float: right;
-    width: 200;
-}
-
 footer#footer1 {
     clear:both;
 }
